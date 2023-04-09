@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mauricio Lopez
-- 👀 I’m interested in: 
+- 👀 I’m interested in \n: 
       - Backend development using JAVA technologies and development ecosystem.
       - Machine learning techniques and implementations using Python or Java technology. 
       - Full stack development.
