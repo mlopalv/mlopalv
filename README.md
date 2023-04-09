@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Mauricio Lopez
-- 👀 I’m interested in \n: 
-      - Backend development using JAVA technologies and development ecosystem.
-      - Machine learning techniques and implementations using Python or Java technology. 
-      - Full stack development.
+- 👀 I’m interested in: (-) Backend development using JAVA technologies and development ecosystem. (-)  Machine learning techniques and implementations using Python or         Java technology. (-) Full stack development.
 - 💞️ I’m looking to collaborate on API and enterprise development using JAVA technologies
 - 📫 You can reach me at mlopalv@gmail.com
 
